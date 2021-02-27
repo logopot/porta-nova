@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/porta-nova/static/css/main.b790998e.chunk.css",
-    "main.js": "/porta-nova/static/js/main.da24923a.chunk.js",
-    "main.js.map": "/porta-nova/static/js/main.da24923a.chunk.js.map",
+    "main.css": "/porta-nova/static/css/main.c3a9dee8.chunk.css",
+    "main.js": "/porta-nova/static/js/main.fb24cadf.chunk.js",
+    "main.js.map": "/porta-nova/static/js/main.fb24cadf.chunk.js.map",
     "runtime-main.js": "/porta-nova/static/js/runtime-main.b2383447.js",
     "runtime-main.js.map": "/porta-nova/static/js/runtime-main.b2383447.js.map",
     "static/css/2.1f208231.chunk.css": "/porta-nova/static/css/2.1f208231.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.0ccea74c.chunk.js.map": "/porta-nova/static/js/2.0ccea74c.chunk.js.map",
     "index.html": "/porta-nova/index.html",
     "static/css/2.1f208231.chunk.css.map": "/porta-nova/static/css/2.1f208231.chunk.css.map",
-    "static/css/main.b790998e.chunk.css.map": "/porta-nova/static/css/main.b790998e.chunk.css.map",
+    "static/css/main.c3a9dee8.chunk.css.map": "/porta-nova/static/css/main.c3a9dee8.chunk.css.map",
     "static/js/2.0ccea74c.chunk.js.LICENSE.txt": "/porta-nova/static/js/2.0ccea74c.chunk.js.LICENSE.txt",
     "static/media/about-us.bda3a034.gif": "/porta-nova/static/media/about-us.bda3a034.gif",
     "static/media/aboutUs.856e23ba.jpg": "/porta-nova/static/media/aboutUs.856e23ba.jpg",
@@ -24,6 +24,7 @@
     "static/media/img-3-sq.576d59df.jpg": "/porta-nova/static/media/img-3-sq.576d59df.jpg",
     "static/media/img-4-sq.0bdb2355.jpg": "/porta-nova/static/media/img-4-sq.0bdb2355.jpg",
     "static/media/ivanaTim.62f44b42.jpg": "/porta-nova/static/media/ivanaTim.62f44b42.jpg",
+    "static/media/AboutUsHome.scss": "/porta-nova/static/media/logo-bg.67680765.svg",
     "static/media/logo.2d45e94c.svg": "/porta-nova/static/media/logo.2d45e94c.svg",
     "static/media/mladenTim.91fc0ba2.jpg": "/porta-nova/static/media/mladenTim.91fc0ba2.jpg",
     "static/media/nikolaTim.06b2473f.jpg": "/porta-nova/static/media/nikolaTim.06b2473f.jpg",
@@ -38,7 +39,7 @@
     "static/js/runtime-main.b2383447.js",
     "static/css/2.1f208231.chunk.css",
     "static/js/2.0ccea74c.chunk.js",
-    "static/css/main.b790998e.chunk.css",
-    "static/js/main.da24923a.chunk.js"
+    "static/css/main.c3a9dee8.chunk.css",
+    "static/js/main.fb24cadf.chunk.js"
   ]
 }
